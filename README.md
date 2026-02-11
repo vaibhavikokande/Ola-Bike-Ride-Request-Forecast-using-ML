@@ -9,7 +9,7 @@ This project uses historical ride request data along with time-based and environ
 
 🎯 Objectives
 
-Forecast bike ride demand using ML models
+* Forecast bike ride demand using ML models
 
 Identify patterns in ride requests based on time and date
 
