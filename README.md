@@ -1,13 +1,13 @@
-🚲 Ola Bike Ride Request Forecast using Machine Learning
+# 🚲 Ola Bike Ride Request Forecast using Machine Learning
 
 
-📌 Project Overview
+# 📌 Project Overview
 
 The Ola Bike Ride Request Forecast project aims to predict the number of bike ride requests using Machine Learning techniques. Accurate demand forecasting helps ride-sharing platforms like Ola optimize driver allocation, reduce wait times, and improve customer satisfaction.
 
 This project uses historical ride request data along with time-based and environmental features to build predictive models for forecasting future demand.
 
-🎯 Objectives
+# 🎯 Objectives
 
 * Forecast bike ride demand using ML models
 
@@ -17,7 +17,7 @@ This project uses historical ride request data along with time-based and environ
 
 * Improve operational efficiency for ride-sharing services
 
-🧠 Problem Statement
+# 🧠 Problem Statement
 
 * Ride-sharing companies face demand fluctuations due to:
 
@@ -33,7 +33,7 @@ This project uses historical ride request data along with time-based and environ
 
 The goal is to build a model that can predict ride requests in advance, enabling better planning.
 
-📂 Dataset
+# 📂 Dataset
 
 The dataset typically includes:
 
@@ -48,7 +48,7 @@ The dataset typically includes:
 * Day of week / weekend indicator
 
 
-⚙️ Technologies Used
+# ⚙️ Technologies Used
 
 * Python
 
@@ -62,7 +62,7 @@ The dataset typically includes:
 
 * Scikit-learn – ML models
 
-🔍 Project Workflow
+# 🔍 Project Workflow
 1️⃣ Data Collection
 
 Load historical ride request data
@@ -115,7 +115,7 @@ R² Score
 
 Forecast future ride demand
 
-📊 Results
+# 📊 Results
 
 * The model successfully learns demand patterns
 
@@ -124,7 +124,7 @@ Forecast future ride demand
 * Helps estimate future ride requests
 
 
-💡 Key Insights
+# 💡 Key Insights
 
 * Demand is higher during peak hours
 
@@ -133,7 +133,7 @@ Forecast future ride demand
 * Time-based features strongly influence predictions
 
 
-📈 Applications
+# 📈 Applications
 * Ride-sharing platforms
 
 * Smart city transportation planning
@@ -142,7 +142,7 @@ Forecast future ride demand
 
 * Traffic demand forecasting
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 * Use Deep Learning (LSTM/Time Series Models)
 
 * Add real-time weather data
