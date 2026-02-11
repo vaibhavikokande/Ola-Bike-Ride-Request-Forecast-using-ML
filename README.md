@@ -11,25 +11,25 @@ This project uses historical ride request data along with time-based and environ
 
 * Forecast bike ride demand using ML models
 
-Identify patterns in ride requests based on time and date
+* Identify patterns in ride requests based on time and date
 
-Help optimize fleet management and resource allocation
+* Help optimize fleet management and resource allocation
 
-Improve operational efficiency for ride-sharing services
+* Improve operational efficiency for ride-sharing services
 
 🧠 Problem Statement
 
-Ride-sharing companies face demand fluctuations due to:
+* Ride-sharing companies face demand fluctuations due to:
 
-Time of day
+* Time of day
 
-Day of week
+* Day of week
 
-Seasonal variations
+* Seasonal variations
 
-Weather conditions
+* Weather conditions
 
-Public holidays and events
+* Public holidays and events
 
 The goal is to build a model that can predict ride requests in advance, enabling better planning.
 
@@ -37,31 +37,30 @@ The goal is to build a model that can predict ride requests in advance, enabling
 
 The dataset typically includes:
 
-Date & Time of request
+* Date & Time of request
 
-Number of ride requests
+* Number of ride requests
 
-Weather conditions (if included)
+* Weather conditions (if included)
 
-Temperature / humidity (if available)
+* Temperature / humidity (if available)
 
-Day of week / weekend indicator
+* Day of week / weekend indicator
 
-(Update this section with your actual dataset source if needed.)
 
 ⚙️ Technologies Used
 
-Python
+* Python
 
-Jupyter Notebook
+* Jupyter Notebook
 
-Pandas – data manipulation
+* Pandas – data manipulation
 
-NumPy – numerical computing
+* NumPy – numerical computing
 
-Matplotlib / Seaborn – visualization
+* Matplotlib / Seaborn – visualization
 
-Scikit-learn – ML models
+* Scikit-learn – ML models
 
 🔍 Project Workflow
 1️⃣ Data Collection
@@ -118,38 +117,37 @@ Forecast future ride demand
 
 📊 Results
 
-The model successfully learns demand patterns
+* The model successfully learns demand patterns
 
-Captures peak and off-peak hours
+* Captures peak and off-peak hours
 
-Helps estimate future ride requests
+* Helps estimate future ride requests
 
-(You can add your exact accuracy or R² score here.)
 
 💡 Key Insights
 
-Demand is higher during peak hours
+* Demand is higher during peak hours
 
-Weekends show different patterns than weekdays
+* Weekends show different patterns than weekdays
 
-Time-based features strongly influence predictions
+* Time-based features strongly influence predictions
 
 
 📈 Applications
-Ride-sharing platforms
+* Ride-sharing platforms
 
-Smart city transportation planning
+* Smart city transportation planning
 
-Fleet management
+* Fleet management
 
-Traffic demand forecasting
+* Traffic demand forecasting
 
 🔮 Future Improvements
-Use Deep Learning (LSTM/Time Series Models)
+* Use Deep Learning (LSTM/Time Series Models)
 
-Add real-time weather data
+* Add real-time weather data
 
-Deploy as a web app/dashboard
+* Deploy as a web app/dashboard
 
-Integrate real-time prediction APIs
+* Integrate real-time prediction APIs
 
